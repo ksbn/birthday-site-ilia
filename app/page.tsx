@@ -29,7 +29,7 @@ return () => {
 
 }, []);
 
-return ( <main className="relative flex min-h-screen items-center justify-center overflow-hidden bg-gradient-to-br from-pink-500 via-purple-600 to-indigo-700">
+return ( <main className="relative flex min-h-screen items-center justify-center overflow-hidden bg-gradient-to-br from-blue-500 via-cyan-500 to-indigo-700">
 <Confetti
 width={size.width}
 height={size.height}
@@ -53,8 +53,8 @@ style={{ pointerEvents: "none" }}
       }}
     >
       <Image
-        src="/A.jpg"
-        alt="Андрей"
+        src="/I.jpg"
+        alt="Илья"
         width={250}
         height={250}
         priority
@@ -68,7 +68,7 @@ style={{ pointerEvents: "none" }}
       animate={{ opacity: 1 }}
       transition={{ delay: 0.5 }}
     >
-      🎉 С Днём Рождения, Андрей! 🎉
+      🎉 С Днём Рождения, Илья! 🎉
     </motion.h1>
 
     <motion.p
@@ -77,11 +77,9 @@ style={{ pointerEvents: "none" }}
       animate={{ opacity: 1 }}
       transition={{ delay: 1 }}
     >
-      Пусть каждый день приносит радость, вдохновение и новые
-      возможности.
+      Пусть этот год будет полон ярких моментов, невероятных путешествий и новых возможностей ✨
       <br />
-      Желаю крепкого здоровья, исполнения желаний и море счастливых
-      моментов!
+      Пусть сбывается всё, о чём ты мечтаешь! 🎯
     </motion.p>
 
     <motion.div
@@ -93,7 +91,7 @@ style={{ pointerEvents: "none" }}
         ease: "easeInOut",
       }}
     >
-      🎂✨🥳
+      🍾✨🎁
     </motion.div>
   </motion.div>
 </main>
