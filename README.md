@@ -32,8 +32,10 @@ When you open the app, you’ll see:
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/ksbn/birthday-site-ilia.git
 cd birthday-app
+
+---
 
 ## 🎯 Purpose
 
