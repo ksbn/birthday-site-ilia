@@ -35,8 +35,3 @@ Clone the repository:
 git clone https://github.com/ksbn/birthday-site-ilia.git
 cd birthday-app
 
----
-
-## 🎯 Purpose
-
-This project was created as a small personal gift — a fun way to celebrate a friend’s birthday using code instead of a traditional card.
