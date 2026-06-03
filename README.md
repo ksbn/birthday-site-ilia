@@ -6,6 +6,12 @@ It features animations, confetti effects, and a personalized birthday message to
 
 ---
 
+## 🎯 Purpose
+
+This project was created as a small personal gift — a fun way to celebrate a friend’s birthday using code instead of a traditional card.
+
+---
+
 ## ✨ Preview
 
 When you open the app, you’ll see:
@@ -35,3 +41,8 @@ Clone the repository:
 git clone https://github.com/ksbn/birthday-site-ilia.git
 cd birthday-app
 
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
